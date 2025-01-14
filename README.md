@@ -1,5 +1,5 @@
 # compile_blender249b
-These bash scripts allow a straight forward way to compile blender 2.49b in linux.
+These bash scripts allow a straight forward way to compile blender 2.49b in linux using blender-2.49b.tar.gz.
 
 First place the compile script and scripts folder into the blender-2.49b directory.
 
